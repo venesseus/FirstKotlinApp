@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="panjang">length</string>
+    <string name="lebar">width</string>
+    <string name="tinggi">height</string>
+    <string name="calculate">calculate</string>
+    <string name="result">result</string>
+</resources>
